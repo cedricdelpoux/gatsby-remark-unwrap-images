@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-unwrap-images",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unwrap remark images nodes from paragraph nodes",
   "repository": "https://github.com/xuopled/gatsby-unwrap-images",
   "author": "Cédric Delpoux",
