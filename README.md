@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the
 
 [npm-badge]: https://img.shields.io/npm/v/gatsby-remark-unwrap-images.svg?style=flat-square
 [npm]: https://www.npmjs.org/package/gatsby-remark-unwrap-images
-[github-issue]: https://github.com/xuopled/gatsby-remark-unwrap-images/issues/new
+[github-issue]: https://github.com/cedricdelpoux/gatsby-remark-unwrap-images/issues/new
